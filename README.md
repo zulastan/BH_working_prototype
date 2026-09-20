@@ -9,3 +9,6 @@ Again, make sure all the elements are the string "Unsure"
 
 Libraries used were of course Pandas
 I used Google Colab for this.
+
+Prerequisites are the file, attached to the code, and GoogleColab
+Best used if you run if on google colab, I am unsure if it works anywhere else.
